@@ -25,7 +25,7 @@ module.exports = function(environment) {
 
     blog: {
       title: 'Noah Zenker',
-      description: 'Grand Technomancer',
+      description: '',
       coverImage: '/images/cover-custom.jpg',
 
       navigation: [{
