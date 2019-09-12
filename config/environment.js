@@ -25,14 +25,14 @@ module.exports = function(environment) {
 
     blog: {
       title: 'Noah Zenker',
-      description: '',
-      coverImage: '/images/cover-custom.jpg',
+      description: 'Designer, Programmer, Tinkerer of all things technology.',
+      coverImage: '/images/cover-custom1.jpg',
 
       navigation: [{
         label: 'Home',
         route: 'index'
       }, {
-        label: 'Built by Chris Manson',
+        label: 'My Work',
         route: 'page',
         id: 'chris-manson'
       }]
