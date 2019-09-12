@@ -24,8 +24,8 @@ module.exports = function(environment) {
     },
 
     blog: {
-      title: 'empress-blog',
-      description: 'Static Blog System - Built with Ember',
+      title: 'Noah Zenker',
+      description: 'Grand Technomancer',
       coverImage: '/images/blog-cover.jpg',
 
       navigation: [{
