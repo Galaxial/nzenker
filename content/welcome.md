@@ -1,5 +1,5 @@
 ---
-title: A scattered Collection
+title: A Scattered Collection
 image: /images/intrigue.png
 imageMeta:
   attribution:
@@ -9,7 +9,7 @@ authors:
   - Noah
 date: Thurs Sept 12 2019 18:59:59 GMT+0100 (IST)
 tags:
-  - getting-started
+  - code-wise
 ---
 
 Welcome, Stay awhile.
