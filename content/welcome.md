@@ -1,20 +1,20 @@
 ---
-title: Welcome to empress-blog
-image: /images/welcome.jpg
+title: A scattered Collection
+image: /images/Dissonance.png
 imageMeta:
   attribution:
   attributionLink:
 featured: true
 authors:
-  - ghost
-date: Tue Jun 12 2018 18:59:59 GMT+0100 (IST)
+  - Noah
+date: Thurs Sept 12 2019 18:59:59 GMT+0100 (IST)
 tags:
   - getting-started
 ---
 
-Hey! Welcome to empress-blog, it's great to have you :)
+Welcome, Stay awhile.
 
-We know that first impressions are important, so we've populated your new site with some initial **Getting Started** posts that will help you get familiar with everything in no time. This is the first one!
+What do you get when you cross a colourblind artist with a programmer who hates math? That'll be myself, pleasure to meet you.
 
 
 ### There are a few things that you should know up-front:
