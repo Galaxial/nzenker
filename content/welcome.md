@@ -1,6 +1,6 @@
 ---
 title: A scattered Collection
-image: /images/Dissonance.png
+image: /images/intrigue.png
 imageMeta:
   attribution:
   attributionLink:
@@ -15,6 +15,10 @@ tags:
 Welcome, Stay awhile.
 
 What do you get when you cross a colourblind artist with a programmer who hates math? That'll be myself, pleasure to meet you.
+
+
+
+
 
 
 ### There are a few things that you should know up-front:
