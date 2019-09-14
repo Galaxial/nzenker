@@ -1,16 +1,23 @@
 ---
-title: Editing Posts with empress-blog
-image: /images/writing.jpg
+title: Web Design & Development
+image: /images/buildup.jpg
 imageMeta:
   attribution:
   attributionLink:
 featured: true
 authors:
   - ghost
-date: Tue Jun 12 2018 17:58:54 GMT+0100 (IST)
+date: Sat Sept 14 2018 17:58:54 GMT+0100 (IST)
 tags:
-  - getting-started
+  - my-work
 ---
+
+UX Schemas, Web Design, and functional front-end and back-end Development
+
+
+
+
+
 
 empress-blog uses a language called **Markdown** to format text, and so does the original Ghost 🎉
 
