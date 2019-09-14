@@ -6,7 +6,7 @@ imageMeta:
   attributionLink:
 featured: true
 authors:
-  - ghost
+  - Noah Z
 date: Sat Sept 14 2018 17:58:54 GMT+0100 (IST)
 tags:
   - my-work
