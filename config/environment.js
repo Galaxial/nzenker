@@ -25,7 +25,7 @@ module.exports = function(environment) {
 
     blog: {
       title: 'Noah Zenker',
-      description: 'Designer, Programmer, Tinkerer of all things technology.',
+      description: 'Designer, Programmer, Curious Tinkerer.',
       coverImage: '/images/cover-custom1.jpg',
 
       navigation: [{
