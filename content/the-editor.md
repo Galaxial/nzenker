@@ -1,6 +1,6 @@
 ---
 title: Web Design & Development
-image: /images/buildup.jpg
+image: /images/buildup.png
 imageMeta:
   attribution:
   attributionLink:
