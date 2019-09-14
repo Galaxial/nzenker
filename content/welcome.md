@@ -1,6 +1,6 @@
 ---
 title: A Scattered Collection
-image: /images/intrigue.png
+image: /images/Dissonance.png
 imageMeta:
   attribution:
   attributionLink:
