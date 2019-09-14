@@ -35,6 +35,10 @@ module.exports = function(environment) {
         label: 'My Work',
         route: 'page',
         id: 'chris-manson'
+      }, {
+        label: 'Contact',
+        route: 'page',
+        id: 'contact-info'
       }]
     },
 
