@@ -1,71 +1,24 @@
 ---
-title: Advanced Markdown tips
-image: /images/advanced.jpg
+title: Web Design & Development I
+image: /images/buildup.jpg
 imageMeta:
   attribution:
   attributionLink:
 featured: true
 authors:
- - ghost
-date: Tue Jun 12 2018 17:50:55 GMT+0100 (IST)
+  - Noah Z
+date: Sat Sept 14 2018 17:58:54 GMT+0100 (IST)
 tags:
-  - getting-started
+  - my-work
 ---
 
-There are lots of powerful things you can do with the Markdown
+UX Schemas, Web Design, and functional front-end and back-end Development
+Among the following are design concepts for a conceptual college website serving multiple utility purposes. The graphic design elements are discussed from concept, through wireframe, through final mockups and design specifications.
 
-If you've gotten pretty comfortable with [all the basics](/the-editor/) of writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do!
+This report discusses the proposal for a graphic design postsecondary institution to be established at Elliot Lake, Ontario, and explores aspects of said proposal specifically in regards to developing a website for it. It does so through researching the region's history, geography, culture, and external influences. This research, in addition to research on the primary specialty field the proposed college in question brings priority to (Graphic Design), is then used to integrate said aspects into the design behind the website. It explores used and unused potential influences for both the aesthetic & functional design behind the website, and uses said influences to translate them into a usable design. 
 
-As with the last post, you'll want to be looking at the source [directly on github](https://github.com/empress/empress-blog/blob/master/blueprints/empress-blog/files/__base__/content/advanced-markdown.md) or in your local editor as you read it so that you can see all the Markdown code we're using.
+	Influences and design criteria established from the research portions were then created into a collection of usable elements, such as a colour palette for use during its creation and a collection of well-contrasting typefaces. 
 
+	Content is then created, and several wireframe rough drafts to simulate these effects. Furthermore, successes and failures were accounted for to create digitally refined wireframe mockups of several key pages of the proposed website as a template to work from. 
 
-## Special formatting
-
-As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:
-
-+ \*escaped characters\*
-
-
-## Writing code blocks
-
-There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, `like this`. Larger snippets of code can be displayed across multiple lines using triple back ticks:
-
-```
-.my-link {
-    text-decoration: underline;
-}
-```
-
-
-## Full bleed images
-
-One neat trick which you can use in Markdown to distinguish between different types of images is to add a `#hash` value to the end of the source URL, and then target images containing the hash with special styling. For example:
-
-![walking](https://casper.ghost.org/v1.0.0/images/walking.jpg#full)
-
-which is styled with...
-
-```
-img[src$="#full"] {
-    max-width: 100vw;
-}
-```
-
-This creates full-bleed images in the Casper theme, which stretch beyond their usual boundaries right up to the edge of the window. Every theme handles these types of things slightly differently, but it's a great trick to play with if you want to have a variety of image sizes and styles.
-
-
-## Reference lists
-
-**The quick brown [fox][1], jumped over the lazy [dog][2].**
-
-[1]: https://en.wikipedia.org/wiki/Fox "Wikipedia: Fox"
-[2]: https://en.wikipedia.org/wiki/Dog "Wikipedia: Dog"
-
-Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference.
-
-
-## Full HTML
-
-Perhaps the best part of Markdown is that you're never limited to just Markdown. You can write HTML directly in the Ghost editor and it will just work as HTML usually does. No limits! Here's a standard YouTube embed code as an example:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+	Finally, when refined wireframe templates had been created, mockups of said pages were developed within Adobe Illustrator, following design patterns with slight improvements implemented through development. Graphics were designed and created with Adobe Photoshop, and when required, photographic graphic elements were created using free domain stock images. 
