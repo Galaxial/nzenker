@@ -1,5 +1,5 @@
 ---
-title: Mobile Interfacing
+title: Mobile Interfacing II
 image: /images/mobile-cover-01.jpg
 imageMeta:
   attribution:
